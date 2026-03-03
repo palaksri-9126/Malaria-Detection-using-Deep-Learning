@@ -53,6 +53,7 @@ cd malaria-detection
 python -m venv venv
 
 Activate:-
+
     Windows:
     venv\Scripts\activate
 
