@@ -74,6 +74,17 @@ Open browser:
 http://127.0.0.1:5000
 
 
+## Application Screenshot
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c095c398-41bb-4ae9-b0c5-3a34d02774b0" width="45%">
+  <img src="https://github.com/user-attachments/assets/f873ce4e-3303-41a0-8f6f-cbb138ef9916" width="45%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a634d094-e987-4bc2-95a7-de8ec9680229" width="45%">
+  <img src="https://github.com/user-attachments/assets/e7400ba9-1276-4878-9ce1-9d76f21dd5e7" width="45%">
+</p>
 
 ## ⚠ Medical Disclaimer
 
