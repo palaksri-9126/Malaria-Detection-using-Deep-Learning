@@ -46,37 +46,54 @@ Malaria-Detection-using-Deep-Learning
 
 ---
 
-## ⚙ Setup Instructions
+## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone Repository
-git clone https://github.com/NANDANI2122/malaria-detection-dl.git
 
+```bash
+git clone https://github.com/NANDANI2122/malaria-detection-dl.git
 cd malaria-detection
+```
 
 ### 2️⃣ Create Virtual Environment
+
+```bash
 python -m venv venv
+```
 
-Activate:-
+Activate:
 
-    Windows:
-    venv\Scripts\activate
+**Windows**
 
-    
-    Mac/Linux:
-    source venv/bin/activate
+```bash
+venv\Scripts\activate
+```
 
+**Mac/Linux**
+
+```bash
+source venv/bin/activate
+```
 
 ### 3️⃣ Install Dependencies
-    pip install -r requirements.txt
 
-    
+```bash
+pip install -r requirements.txt
+```
+
 ### 4️⃣ Run Application
+
+```bash
 python app.py
+```
 
+Open browser:
 
-Open browser: 
+```bash
 http://127.0.0.1:5000
+```
 
+---
 
 ## Application Screenshot
 
