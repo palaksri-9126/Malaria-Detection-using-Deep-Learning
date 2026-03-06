@@ -27,17 +27,21 @@ An AI-powered web application for detecting malaria from microscopic blood cell 
 ---
 
 ## 📂 Project Structure
-malaria-detection/
+
+```
+Malaria-Detection-using-Deep-Learning
 │
-├── app.py
-├── malaria_model.h5
-├── requirements.txt
+├── app.py                # Flask application
+├── malaria_model.h5      # Trained CNN model
+├── requirements.txt      # Python dependencies
+├── Procfile              # Deployment configuration
 ├── .gitignore
 ├── README.md
 │
-└── templates/
-├── index.html
-└── report.html
+└── templates
+    ├── index.html        # Upload interface
+    └── report.html       # Prediction result page
+```
 
 
 ---
