@@ -51,7 +51,7 @@ Malaria-Detection-using-Deep-Learning
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/NANDANI2122/malaria-detection-dl.git
+git clone https://github.com/palaksri-9126/Malaria-Detection-using-Deep-Learning.git
 cd malaria-detection
 ```
 
